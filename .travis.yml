@@ -1,10 +1,10 @@
 language: python
 services:
-  - docker 
+  - docker
 install:
     make deps
 script:
   - make lint
   - make test
-after_success:
   - make docker_build
+  - make docker_push
