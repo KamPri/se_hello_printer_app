@@ -49,7 +49,7 @@ make deps
   ```
   ...
 
-  # aktywacja 
+  # aktywacja
   $ source .venv/bin/activate
   ```
 
@@ -86,3 +86,9 @@ make deps
   $ yum install -y docker-ce
   $ systemctl start docker
   ```
+
+Badge
+[![Build Status](https://travis-ci.com/KamPri/se_hello_printer_app.svg?branch=master)]
+
+statuscake
+[![Build Status](https://app.statuscake.com/button/index.php?Track=2Jr5eMm7nw&Days=1&Design=2)]
