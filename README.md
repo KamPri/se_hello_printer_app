@@ -89,6 +89,8 @@ make deps
 
 Badge
 [![Build Status](https://travis-ci.com/KamPri/se_hello_printer_app.svg?branch=master)]
+(https://travis-ci.com/KamPri/se_hello_printer_app)
 
 statuscake
 [![Build Status](https://app.statuscake.com/button/index.php?Track=2Jr5eMm7nw&Days=1&Design=2)]
+(https://fathomless-ocean-40753.herokuapp.com/)
