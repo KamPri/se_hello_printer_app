@@ -85,12 +85,8 @@ make deps
   $ yum makecache fast
   $ yum install -y docker-ce
   $ systemctl start docker
-  ```
 
-Badge
-[![Build Status](https://travis-ci.com/KamPri/se_hello_printer_app.svg?branch=master)]
-(https://travis-ci.com/KamPri/se_hello_printer_app)
 
-statuscake
-[![Build Status](https://app.statuscake.com/button/index.php?Track=2Jr5eMm7nw&Days=1&Design=2)]
-(https://fathomless-ocean-40753.herokuapp.com/)
+<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=2Jr5eMm7nw&Days=1&Design=2" /></a>
+
+<img src="https://travis-ci.com/KamPri/se_hello_printer_app.svg?branch=master"></a>
